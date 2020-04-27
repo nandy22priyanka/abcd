@@ -15,7 +15,7 @@ Today the whole world is affected by the pandemic Covid 19. It is a contagious d
 
 
 # HOW THE GUI LOOKS
-![](Screenshots/Screenshot (1).png)
+
 
 # DEPENDENCIES
 
